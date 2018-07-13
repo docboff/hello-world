@@ -1,2 +1,2 @@
 # hello-world
-step1
+Just following the tutorial here. 
